@@ -50,8 +50,7 @@ public class Technika {
 
     @Override
     public String toString() {
-        return "Technika:\n" +
-                "name:" + getName() + "\n" +
+        return  "name:" + getName() + "\n" +
                 "model:" + getModel() + "\n" +
                 "year:" + getYear() + "\n" +
                 "price:" + getPrice() + "\n";

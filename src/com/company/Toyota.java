@@ -8,8 +8,4 @@ public class Toyota extends Cars {
         super(name, model, year, price);
     }
 
-    @Override
-    public String toString() {
-        return "Toyota{}";
-    }
 }
